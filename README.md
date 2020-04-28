@@ -31,7 +31,7 @@ Epic Games
 Second, use the link:
 https://answers.unrealengine.com/questions/422750/why-cant-i-find-repository.html
 
-if you can not see "UnrealEngine Private" in the top,
+If you can not see "UnrealEngine Private" in the top,
 you will see the SignUP
 
 Click the SignUP and use your account in the first step,
@@ -41,4 +41,4 @@ Now when you run the command:
 
 $ git clone --depth=1 -b 4.24 https://github.com/EpicGames/UnrealEngine.git ~/UnrealEngine_4.24
 
-you will succeed.
+You will succeed.
